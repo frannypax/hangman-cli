@@ -1,0 +1,19 @@
+{
+  "name": "hangman-cli",
+  "version": "1.0.0",
+  "description": "hangman-cli",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frannypax/hangman-cli.git"
+  },
+  "author": "FA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frannypax/hangman-cli/issues"
+  },
+  "homepage": "https://github.com/frannypax/hangman-cli#readme"
+}
