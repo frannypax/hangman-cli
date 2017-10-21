@@ -23,7 +23,7 @@ function Word(fruitName) {
 		var toReturn = 0;
 
 		for (var i = 0; i < this.letters.length; i++) {
-			if (this.letters[i].charac == guessLet){
+			if (this.letters[i].character == guessLet){
 				this.letters[i].appear = true;
 				toReturn++;
 			}

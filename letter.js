@@ -1,8 +1,9 @@
 var letter = function(fruitLetter){
-	this.charac = fruitLetter;
+
+	this.character = fruitLetter;
 	this.appear = false;
 	this.letterRender = function(){
-		return !(this.appear) ? "_" : this.charac;
+		return !(this.appear) ? "|" : this.character;
 	};
 };
 
